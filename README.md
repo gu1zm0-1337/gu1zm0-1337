@@ -1,70 +1,45 @@
-# 👨‍💻 GU1ZM0 — Kernel tinkerer & digital memory keeper
+# 🧠 GU1ZM0 | Kernel Hacker • Ethical Tinkerer • Ocean-Side Dev
 
-> *“Chaque ligne de code que j’écris est un fragment de mémoire, un acte de reconstruction.”*
+> “Code is poetry. Kernel is power. Freedom is sacred.” — GU1ZM0
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GU1ZM0%20🧬&fontSize=40&fontAlign=center)
+## 🌌 À propos de moi
 
----
-![Banner](banner.png)
+Salut, je suis GU1ZM0, un passionné de développement kernel, d'OS modding, de cybersécurité et d’optimisation système. En mémoire de Marion, j’ai donné vie à MarionKernel, un projet libre, audacieux, et profondément humain, orienté vers la liberté technologique et le respect des ressources.
 
-## 📍 À propos de moi
+💻 Je bricole surtout sous Linux, Android (OneUI), et dans les entrailles du kernel : KernelSU, SUSFS, KPM, et autres outils obscurs n’ont plus de secret pour moi.
 
-Je suis Valentin, alias **GU1ZM0**, développeur indépendant basé en **Bretagne**. Passionné par le **modding Android bas niveau**, les **kernels Linux**, les systèmes minimalistes et l’**exploration de la machine**, je construis des projets solides, propres, et toujours portés par une vision profonde : la mémoire de celle qui m’a tout inspiré, **Marion**.
+🌊 Je vis en Bretagne, au bord de l’océan — là où le bruit des vagues inspire mes lignes de code.
 
----
+## 🔧 Projets phares
 
-## ⚙️ Projets principaux
+### 🐚 MarionKernel (v0.5)
+- ✅ Linux 6.1.124 GKI, avec KernelSU intégré
+- 📁 Support SUSFS v1.5.8, Zygisk Next, KPM
+- 🔀 Switch SELinux permissive/enforcing
+- ⚙️ Compatible Android 16 / OneUI 8 (S928BXXU5CYF7)
 
-### 🧬 MarionKernel
-![Kernel Badge](https://img.shields.io/badge/Kernel-GKI%206.6+-blueviolet?style=flat-square)
-![Status](https://img.shields.io/badge/Stable-v0.4-success?style=flat-square)
+### 🧪 SUSFS (System User Space File System)
+- 📡 Hook manuel custom
+- 🔐 Communication bidirectionnelle avec userland
+- 🔥 Exploitable sans Magisk
 
-Kernel GKI Android 15/16 optimisé avec :
-- KernelSU + Zygisk Next
-- SUSFS intégré
-- KPM (Kernel Patch Manager)
-- Objectif : stabilité, minimalisme, puissance
+### 🎮 Arma Reforger Private Server
+- 🌐 Serveur *moddé* avec Apocalypse Z, RHS, et une French faction RP
+- ⚔️ Intégration custom de mods, scripts de persistance, RCON tools
 
-➤ *Nom en hommage à Marion, mon amour et muse éternelle.*
+## 📎 Compétences
 
-### 🔁 KPM – Kernel Patch Manager
-![Patch Badge](https://img.shields.io/badge/Patch-Manager-orange?style=flat-square)
-Système modulaire de gestion de patchs pour kernels Android GKI  
-→ Conçu pour un kernel propre, maintenable, à l’épreuve des updates
+- 🧬 Kernel GKI / Device Tree / Ramdisk patching
+- 🛠️ Android Reverse Engineering (smali, .rc/.fstab, SELinux, VINTF)
+- 🎮 Scripting et DevOps pour jeux (Arma, GTA FiveM, etc.)
+- 🧠 Git, CI/CD, C, Shell, JSON, YAML, XML
 
-### 🛠️ AnyKernel3 Rework (Android 15+)
-Adaptation AK3 pour slots dynamiques, KernelSU, SUSFS et auto-slot detection
-
-### 🎮 Serveur Arma Reforger
-Admin d’un serveur immersif (modpack Apocalypse/French) avec configuration JSON propre et packs sur mesure
-
-### 👤 Marion Sim Project (Les Sims 4)
-Création d’un Sim fidèle à Marion :
-- Version 1 : avec CC réaliste
-- Version 2 : sans CC (compatibilité max)
+## 🌹 En hommage à Marion
+> Marion était la lumière derrière le code. Chaque ligne que j’écris lui est dédiée. Son amour pour la nature et les animaux m’accompagne dans chaque projet.
 
 ---
 
-## 📚 Stack & outils
-
-![Linux](https://img.shields.io/badge/Linux-Kernel-informational?style=flat-square&logo=linux)
-![Android](https://img.shields.io/badge/Android-Modding-green?style=flat-square&logo=android)
-![VSCode](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Version-Git-orange?style=flat-square&logo=git)
-
-- Linux kernel (GKI 6.x+), GCC/Clang toolchains
-- AOSP, TWRP, Magisk, KernelSU, Zygisk
-- Shell, Bash, Git, GitHub Actions
-- VS Code, Notepad++, Vim
-- JSON, YAML, XML modding
-- Arma Reforger tools, Enfusion Workbench
-- Sims 4 Studio, CC conversion & Sims Tray tools
-
----
-
-## 🕊️ En mémoire
-
-Tous mes projets sont dédiés à **Marion**, une âme belle, blessée, et lumineuse. Elle m’a appris la douceur, l’authenticité, et l’importance de rester humain dans un monde souvent trop froid.
-
----
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+📫 Me contacter :  
+🔹 Telegram : @gu1zm0  
+🔹 Mail : admin@gu1zm0.fr  
+🔹 Site : gu1zm0.fr (https://www.gu1zm0.fr/)
