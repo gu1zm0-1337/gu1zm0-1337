@@ -40,6 +40,6 @@ Salut, je suis GU1ZM0, un passionné de développement kernel, d'OS modding, de 
 ---
 
 📫 Me contacter :  
-🔹 Telegram : @gu1zm0  
+🔹 Telegram : (https://t.me/GU1ZM0_1337/)
 🔹 Mail : admin@gu1zm0.fr  
 🔹 Site : gu1zm0.fr (https://www.gu1zm0.fr/)
