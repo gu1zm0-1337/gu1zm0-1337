@@ -16,7 +16,7 @@ Salut, je suis GU1ZM0, un passionné de développement kernel, d'OS modding, de 
 - ✅ Linux 6.1.124 GKI, avec KernelSU intégré
 - 📁 Support SUSFS v1.5.8, Zygisk Next, KPM
 - 🔀 Switch SELinux permissive/enforcing
-- ⚙️ Compatible Android 16 / OneUI 8 (S928BXXU5CYF7)
+- ⚙️ Compatible Android 16 / OneUI 8 (S928BXXU4CYF7)
 
 ### 🧪 SUSFS (System User Space File System)
 - 📡 Hook manuel custom
@@ -40,6 +40,5 @@ Salut, je suis GU1ZM0, un passionné de développement kernel, d'OS modding, de 
 ---
 
 📫 Me contacter :  
-🔹 Telegram : (https://t.me/GU1ZM0_1337/)
-🔹 Mail : admin@gu1zm0.fr  
+
 🔹 Site : gu1zm0.fr (https://www.gu1zm0.fr/)
