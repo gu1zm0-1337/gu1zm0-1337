@@ -12,11 +12,11 @@ Salut, je suis GU1ZM0, un passionné de développement kernel, d'OS modding, de 
 
 ## 🔧 Projets phares
 
-### 🐚 MarionKernel (v0.5)
-- ✅ Linux 6.1.124 GKI, avec KernelSU intégré
-- 📁 Support SUSFS v1.5.8, Zygisk Next, KPM
+### 🐚 MarionKernel (v2.5)
+- ✅ Linux 6.1.152 GKI, avec KernelSU intégré
+- 📁 Support SUSFS v1.5.8, Zygisk Next
 - 🔀 Switch SELinux permissive/enforcing
-- ⚙️ Compatible Android 16 / OneUI 8 (S928BXXU4CYF7)
+- ⚙️ Compatible Android 16 / OneUI 8 (S928BXXU4CYI5)
 
 ### 🧪 SUSFS (System User Space File System)
 - 📡 Hook manuel custom
